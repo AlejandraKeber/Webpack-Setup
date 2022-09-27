@@ -18,9 +18,9 @@ module.exports = {
         clean: true,
         publicPath: '/',
     },
-    optimization: {
-        runtimeChunk: 'single',
-    },
+    /*     optimization: {
+            runtimeChunk: 'single',
+        }, */
     module: {
         rules: [
             {
